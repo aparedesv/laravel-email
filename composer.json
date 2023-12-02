@@ -1,0 +1,32 @@
+{
+    "name": "andreu/laravel-mail",
+    "description": "laravel mail sender",
+    "autoload": {
+        "psr-4": {
+            "Andreu\\LaravelMail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aparedesv",
+            "email": "info@osonaweb.cat"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^8.15",
+        "phpunit/phpunit": "^10.4"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Andreu\\LaravelMail\\LaravelMailServiceProvider"
+            ],
+            "Aliases": {
+                "laravelMail": "Andreu\\LaravelMail\\Facades\\LaravelMail"
+            }
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "version": "1.0"
+}
