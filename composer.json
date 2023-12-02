@@ -23,6 +23,7 @@
         }
     },
     "minimum-stability": "stable",
+    "stability": "stable",
     "version": "1.0",
     "license": "MIT"
 }
