@@ -22,8 +22,8 @@
             }
         }
     },
-    "minimum-stability": "stable",
     "stability": "stable",
+    "minimum-stability": "stable",
     "version": "1.0",
     "license": "MIT"
 }
