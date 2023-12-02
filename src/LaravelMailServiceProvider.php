@@ -13,7 +13,7 @@ class LaravelMailServiceProvider extends ServiceProvider
         
         $this->publishes([
             $this->basePath('resources/views') => resource_path('views/vendor/laravelMail')
-        ], 'aparedesv-laravel-mail-views');
+        ], 'laravelMail-views');
     }
 
     public function register()
