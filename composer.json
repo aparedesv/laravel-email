@@ -1,9 +1,9 @@
 {
-    "name": "andreu/laravel-mail",
+    "name": "aparedesv/laravel-mail",
     "description": "laravel mail sender",
     "autoload": {
         "psr-4": {
-            "Andreu\\LaravelMail\\": "src/"
+            "Aparedesv\\LaravelMail\\": "src/"
         }
     },
     "authors": [
@@ -19,10 +19,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Andreu\\LaravelMail\\LaravelMailServiceProvider"
+                "Aparedesv\\LaravelMail\\LaravelMailServiceProvider"
             ],
             "Aliases": {
-                "laravelMail": "Andreu\\LaravelMail\\Facades\\LaravelMail"
+                "laravelMail": "Aparedesv\\LaravelMail\\Facades\\LaravelMail"
             }
         }
     },

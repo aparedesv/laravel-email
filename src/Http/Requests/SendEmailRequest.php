@@ -1,6 +1,6 @@
 <?php
 
-namespace Andreu\LaravelMail\Http\Requests;
+namespace Aparedesv\LaravelMail\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

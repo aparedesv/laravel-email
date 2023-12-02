@@ -1,6 +1,6 @@
 <?php
 
-namespace Andreu\LaravelMail\Mail;
+namespace Aparedesv\LaravelMail\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

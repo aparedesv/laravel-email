@@ -1,6 +1,6 @@
 <?php
 
-namespace Andreu\laravelMail\Facades;
+namespace Aparedesv\laravelMail\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

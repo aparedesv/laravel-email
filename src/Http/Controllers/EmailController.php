@@ -1,10 +1,10 @@
 <?php
 
-namespace Andreu\LaravelMail\Http\Controllers;
+namespace Aparedesv\LaravelMail\Http\Controllers;
 
-use Andreu\LaravelMail\Mail\SendEmailMailable;
+use Aparedesv\LaravelMail\Mail\SendEmailMailable;
 use Illuminate\Support\Facades\Mail;
-use Andreu\LaravelMail\Http\Requests\SendEmailRequest;
+use Aparedesv\LaravelMail\Http\Requests\SendEmailRequest;
 
 class EmailController
 {

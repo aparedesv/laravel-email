@@ -1,6 +1,6 @@
 <?php
 
-namespace Andreu\LaravelMail;
+namespace Aparedesv\LaravelMail;
 
 use Illuminate\Support\ServiceProvider;
 

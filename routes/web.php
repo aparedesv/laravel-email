@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Andreu\LaravelMail\Http\Controllers\EmailController;
+use Aparedesv\LaravelMail\Http\Controllers\EmailController;
 
 Route::get('/', function () {
     return view('welcome');
