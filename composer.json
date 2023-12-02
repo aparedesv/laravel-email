@@ -12,10 +12,6 @@
             "email": "info@osonaweb.cat"
         }
     ],
-    "require-dev": {
-        "orchestra/testbench": "^8.15",
-        "phpunit/phpunit": "^10.4"
-    },
     "extra": {
         "laravel": {
             "providers": [
@@ -26,7 +22,7 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "version": "1.0",
     "license": "MIT"
 }
